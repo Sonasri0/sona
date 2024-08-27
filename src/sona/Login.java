@@ -8,6 +8,6 @@ public class Login {
 }
 class Samp{
 	Samp(){
-		System.out.println("New one");
+		System.out.println("New one is added");
 	}
 }
