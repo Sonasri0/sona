@@ -6,3 +6,8 @@ public class Login {
 	}
 
 }
+class Samp{
+	Samp(){
+		System.out.println("New one");
+	}
+}
